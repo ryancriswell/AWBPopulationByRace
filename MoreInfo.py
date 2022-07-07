@@ -92,9 +92,9 @@ def years_to_string(years, interval):
     else:
         # for the 1-year interval we can just return the ints as string directly
         #TODO for this first use we are missing 2020 data so we -1 to get 2019 data
-        years0 = str(int(years[0])-1)
-        years1 = str(int(years[1])-1)
-        years2 = str(int(years[2])-1)
+        years0 = years[0]
+        years1 = years[1]
+        years2 = years[2]
     return years0, years1, years2
 
 

@@ -1,0 +1,23 @@
+Readme File for AWB Population By Race & Ethnicity More Info Generator
+Written in Python 3.8 (download Python 3.8 here: https://www.python.org/downloads/release/python-380/)
+
+This script will need to be updated when Census 2021 data is released. It is currently augmented to accommodate
+missing Census 2020 data due to covid. The script is outputting 2019 data for the 1-Year Estimates and includes
+a note in the output to communicate that to our users. There are TODO notes included in the MoreInfo.py file
+which indicate the few places where the code will need to be changed to go back to current year data instead of
+current year - 1 data.
+
+If the formatting or order of our original file has changed this script was created it will still work and it
+should still be in the correct order.
+
+Usage instructions:
+===================
+- Download the AWB Population By Race & Ethnicity file from our site.
+- Save it as .csv in the same location as the MoreInfo.py script
+- Run MoreInfo.py
+- A new file named outputfile.txt will be created in the same directory
+- In this file is the html code which can be pasted directly into the more info page on our admin site
+- Make sure you are pasting the html code from outputfile.txt into the textbox after clicking SOURCE so you
+should be overwriting html code instead of the normal formatted text.
+
+

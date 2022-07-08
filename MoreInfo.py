@@ -10,9 +10,11 @@ def main():
     f = open('outputfile.txt', 'w')
     # Get dataframe and basic info about it
     df, r, c = get_data_info()
+    # Get the index of the first empty row because we have 3 blank rows between estimates and MOEs
+    index_first_empty_row = df.index[df.iloc[:,0].isnull().values][0]
     # Iterate by rows. Pandas doesn't count the head in our dataframe so 0 index for us will
     # be the first county. We step by 8 because each county has 8 entries.
-    for i in range(0, r, 8):
+    for i in range(0, index_first_empty_row, 8):
         # Get county name
         location = df['Location'][i]
 

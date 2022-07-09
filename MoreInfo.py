@@ -86,11 +86,11 @@ def get_data_info():
 
 # take in our list of years and the given interval and return a new list with strings for output
 def years_to_string(years, interval):
-    # For our 5-Year Interval we need to return the range of years
+    # For our 5-Year Interval we need to return the range of years.
     if interval == '5-Year Interval':
-        years0 = str(int(years[0]) - 4) + '-' + years[0]
-        years1 = str(int(years[1]) - 4) + '-' + years[1]
-        years2 = str(int(years[2]) - 4) + '-' + years[2]
+        years0 = 'the ' + str(int(years[0]) - 4) + '-' + years[0] + ' interval'
+        years1 = 'the ' + str(int(years[1]) - 4) + '-' + years[1] + ' interval'
+        years2 = 'the ' + str(int(years[2]) - 4) + '-' + years[2] + ' interval'
     else:
         # for the 1-year interval we can just return the ints as string directly
         #TODO for this first use we are missing 2020 data so we -1 to get 2019 data
@@ -112,50 +112,50 @@ def print_county(years_strings, datalist, location, interval, f):
 <ul>
 	<li>Hispanic (may be of any race) was {round(datalist[0] * 100, 1)}%, changing by: 
 	<ul style="list-style-type:circle">
-		<li>{round(datalist[0] * 100 - datalist[1] * 100, 1)} points from {round(datalist[1] * 100, 1)}% during the {years_strings[1]} interval.</li>
-		<li>{round(datalist[0] * 100 - datalist[2] * 100, 1)} points from {round(datalist[2] * 100, 1)}% during the {years_strings[2]} interval.</li>
+		<li>{round(datalist[0] * 100 - datalist[1] * 100, 1)} points from {round(datalist[1] * 100, 1)}% during {years_strings[1]}.</li>
+		<li>{round(datalist[0] * 100 - datalist[2] * 100, 1)} points from {round(datalist[2] * 100, 1)}% during {years_strings[2]}.</li>
 	</ul>
 	</li>
 	<li>White (Non-Hispanic) was {round(datalist[3] * 100, 1)}%, changing by: 
 	<ul style="list-style-type:circle">
-		<li>{round(datalist[3] * 100 - datalist[4] * 100, 1)} points from {round(datalist[4] * 100, 1)}% during the {years_strings[1]} interval.</li>
-		<li>{round(datalist[3] * 100 - datalist[5] * 100, 1)} points from {round(datalist[5] * 100, 1)}% during the {years_strings[2]} interval.</li>
+		<li>{round(datalist[3] * 100 - datalist[4] * 100, 1)} points from {round(datalist[4] * 100, 1)}% during {years_strings[1]}.</li>
+		<li>{round(datalist[3] * 100 - datalist[5] * 100, 1)} points from {round(datalist[5] * 100, 1)}% during {years_strings[2]}.</li>
 	</ul>
 	</li>
 	<li>Black or African-American (Non-Hispanic) was {round(datalist[6] * 100, 1)}%, changing by: 
 	<ul style="list-style-type:circle">
-		<li>{round(datalist[6] * 100 - datalist[7] * 100, 1)} points from {round(datalist[7] * 100, 1)}% during the {years_strings[1]} interval.</li>
-		<li>{round(datalist[6] * 100 - datalist[8] * 100, 1)} points from {round(datalist[8] * 100, 1)}% during the {years_strings[2]} interval.</li>
+		<li>{round(datalist[6] * 100 - datalist[7] * 100, 1)} points from {round(datalist[7] * 100, 1)}% during {years_strings[1]}.</li>
+		<li>{round(datalist[6] * 100 - datalist[8] * 100, 1)} points from {round(datalist[8] * 100, 1)}% during {years_strings[2]}.</li>
 	</ul>
 	</li>
 	<li>American Indian (Non-Hispanic) was {round(datalist[9] * 100, 1)}%, changing by: 
 	<ul style="list-style-type:circle">
-		<li>{round(datalist[9] * 100 - datalist[10] * 100, 1)} points from {round(datalist[10] * 100, 1)}% during the {years_strings[1]} interval.</li>
-		<li>{round(datalist[9] * 100 - datalist[11] * 100, 1)} points from {round(datalist[11] * 100, 1)}% during the {years_strings[2]} interval.</li>
+		<li>{round(datalist[9] * 100 - datalist[10] * 100, 1)} points from {round(datalist[10] * 100, 1)}% during {years_strings[1]}.</li>
+		<li>{round(datalist[9] * 100 - datalist[11] * 100, 1)} points from {round(datalist[11] * 100, 1)}% during {years_strings[2]}.</li>
 	</ul>
 	</li>
 	<li>Asian (Non-Hispanic) was {round(datalist[12] * 100, 1)}%, changing by: 
 	<ul style="list-style-type:circle">
-		<li>{round(datalist[12] * 100 - datalist[13] * 100, 1)} points from {round(datalist[13] * 100, 1)}% during the {years_strings[1]} interval.</li>
-		<li>{round(datalist[12] * 100 - datalist[14] * 100, 1)} points from {round(datalist[14] * 100, 1)}% during the {years_strings[2]} interval.</li>
+		<li>{round(datalist[12] * 100 - datalist[13] * 100, 1)} points from {round(datalist[13] * 100, 1)}% during {years_strings[1]}.</li>
+		<li>{round(datalist[12] * 100 - datalist[14] * 100, 1)} points from {round(datalist[14] * 100, 1)}% during {years_strings[2]}.</li>
 	</ul>
 	</li>
 	<li>Native Hawaiian &amp; Pacific Islander (Non-Hispanic) was {round(datalist[15] * 100, 1)}%, changing by: 
 	<ul style="list-style-type:circle">
-		<li>{round(datalist[15] * 100 - datalist[16] * 100, 1)} points from {round(datalist[16] * 100, 1)}% during the {years_strings[1]} interval.</li>
-		<li>{round(datalist[15] * 100 - datalist[17] * 100, 1)} points from {round(datalist[17] * 100, 1)}% during the {years_strings[2]} interval.</li>
+		<li>{round(datalist[15] * 100 - datalist[16] * 100, 1)} points from {round(datalist[16] * 100, 1)}% during {years_strings[1]}.</li>
+		<li>{round(datalist[15] * 100 - datalist[17] * 100, 1)} points from {round(datalist[17] * 100, 1)}% during {years_strings[2]}.</li>
 	</ul>
 	</li>
 	<li>Some other race was {round(datalist[18] * 100, 1)}%, changing by:
 	<ul style="list-style-type:circle">
-		<li>{round(datalist[18] * 100 - datalist[19] * 100, 1)} points from {round(datalist[19] * 100, 1)}% during the {years_strings[1]} interval.</li>
-		<li>{round(datalist[18] * 100 - datalist[20] * 100, 1)} points from {round(datalist[20] * 100, 1)}% during the {years_strings[2]} interval.</li>
+		<li>{round(datalist[18] * 100 - datalist[19] * 100, 1)} points from {round(datalist[19] * 100, 1)}% during {years_strings[1]}.</li>
+		<li>{round(datalist[18] * 100 - datalist[20] * 100, 1)} points from {round(datalist[20] * 100, 1)}% during {years_strings[2]}.</li>
 	</ul>
 	</li>
 	<li>Two or more races was {round(datalist[21] * 100, 1)}%, changing by:
 	<ul style="list-style-type:circle">
-		<li>{round(datalist[21] * 100 - datalist[22] * 100, 1)} points from {round(datalist[22] * 100, 1)}% during the {years_strings[1]} interval.</li>
-		<li>{round(datalist[21] * 100 - datalist[23] * 100, 1)} points from {round(datalist[23] * 100, 1)}% during the {years_strings[2]} interval.</li>
+		<li>{round(datalist[21] * 100 - datalist[22] * 100, 1)} points from {round(datalist[22] * 100, 1)}% during {years_strings[1]}.</li>
+		<li>{round(datalist[21] * 100 - datalist[23] * 100, 1)} points from {round(datalist[23] * 100, 1)}% during {years_strings[2]}.</li>
 	</ul>
 	</li>
 </ul>\n''', file=f)

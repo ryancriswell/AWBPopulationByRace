@@ -155,7 +155,7 @@ def print_county(years_strings, datalist, location, interval, f, statsiglist):
         note = '<p><em>Note: Due to the low survey response rate during the Covid-19 pandemic, the 1 year estimates of the ACS for 2020 will not be available.</em></p>\n'
 
 
-    print(f'''{note}<p>During the {years_strings[0]} interval in <strong>{location}</strong>, the estimated non-white shares of the total population who were:</p>
+    print(f'''{note}<p>During {years_strings[0]} in <strong>{location}</strong>, the estimated non-white shares of the total population who were:</p>
 
 <ul>
 	<li>Hispanic (may be of any race) was {round(datalist[0] * 100, 1)}%, changing by: 
@@ -222,50 +222,50 @@ def print_wa(years_strings, wadatalist, interval, f, siglistwa):
 <ul>
 	<li>Hispanic (may be of any race) was {round(wadatalist[0] * 100, 1)}%, changing by: 
 	<ul style="list-style-type:circle">
-		<li>{round(wadatalist[0] * 100 - wadatalist[1] * 100, 1)} points from {round(wadatalist[1] * 100, 1)}% during  {years_strings[1]}. </em>{siglistwa[0]}</em></li>
-		<li>{round(wadatalist[0] * 100 - wadatalist[2] * 100, 1)} points from {round(wadatalist[2] * 100, 1)}% during  {years_strings[2]}. </em>{siglistwa[1]}</em></li>
+		<li>{round(wadatalist[0] * 100 - wadatalist[1] * 100, 1)} points from {round(wadatalist[1] * 100, 1)}% during {years_strings[1]}. </em>{siglistwa[0]}</em></li>
+		<li>{round(wadatalist[0] * 100 - wadatalist[2] * 100, 1)} points from {round(wadatalist[2] * 100, 1)}% during {years_strings[2]}. </em>{siglistwa[1]}</em></li>
 	</ul>
 	</li>
 	<li>White (Non-Hispanic) was {round(wadatalist[3] * 100, 1)}%, changing by: 
 	<ul style="list-style-type:circle">
-		<li>{round(wadatalist[3] * 100 - wadatalist[4] * 100, 1)} points from {round(wadatalist[4] * 100, 1)}% during  {years_strings[1]}. </em>{siglistwa[2]}</em></li>
-		<li>{round(wadatalist[3] * 100 - wadatalist[5] * 100, 1)} points from {round(wadatalist[5] * 100, 1)}% during  {years_strings[2]}. </em>{siglistwa[3]}</em></li>
+		<li>{round(wadatalist[3] * 100 - wadatalist[4] * 100, 1)} points from {round(wadatalist[4] * 100, 1)}% during {years_strings[1]}. </em>{siglistwa[2]}</em></li>
+		<li>{round(wadatalist[3] * 100 - wadatalist[5] * 100, 1)} points from {round(wadatalist[5] * 100, 1)}% during {years_strings[2]}. </em>{siglistwa[3]}</em></li>
 	</ul>
 	</li>
 	<li>Black or African-American (Non-Hispanic) was {round(wadatalist[6] * 100, 1)}%, changing by: 
 	<ul style="list-style-type:circle">
-		<li>{round(wadatalist[6] * 100 - wadatalist[7] * 100, 1)} points from {round(wadatalist[7] * 100, 1)}% during  {years_strings[1]}. </em>{siglistwa[4]}</em></li>
-		<li>{round(wadatalist[6] * 100 - wadatalist[8] * 100, 1)} points from {round(wadatalist[8] * 100, 1)}% during  {years_strings[2]}. </em>{siglistwa[5]}</em></li>
+		<li>{round(wadatalist[6] * 100 - wadatalist[7] * 100, 1)} points from {round(wadatalist[7] * 100, 1)}% during {years_strings[1]}. </em>{siglistwa[4]}</em></li>
+		<li>{round(wadatalist[6] * 100 - wadatalist[8] * 100, 1)} points from {round(wadatalist[8] * 100, 1)}% during {years_strings[2]}. </em>{siglistwa[5]}</em></li>
 	</ul>
 	</li>
 	<li>American Indian (Non-Hispanic) was {round(wadatalist[9] * 100, 1)}%, changing by: 
 	<ul style="list-style-type:circle">
-		<li>{round(wadatalist[9] * 100 - wadatalist[10] * 100, 1)} points from {round(wadatalist[10] * 100, 1)}% during  {years_strings[1]}. </em>{siglistwa[6]}</em></li>
-		<li>{round(wadatalist[9] * 100 - wadatalist[11] * 100, 1)} points from {round(wadatalist[11] * 100, 1)}% during  {years_strings[2]}. </em>{siglistwa[7]}</em></li>
+		<li>{round(wadatalist[9] * 100 - wadatalist[10] * 100, 1)} points from {round(wadatalist[10] * 100, 1)}% during {years_strings[1]}. </em>{siglistwa[6]}</em></li>
+		<li>{round(wadatalist[9] * 100 - wadatalist[11] * 100, 1)} points from {round(wadatalist[11] * 100, 1)}% during {years_strings[2]}. </em>{siglistwa[7]}</em></li>
 	</ul>
 	</li>
 	<li>Asian (Non-Hispanic) was {round(wadatalist[12] * 100, 1)}%, changing by: 
 	<ul style="list-style-type:circle">
-		<li>{round(wadatalist[12] * 100 - wadatalist[13] * 100, 1)} points from {round(wadatalist[13] * 100, 1)}% during  {years_strings[1]}. </em>{siglistwa[8]}</em></li>
-		<li>{round(wadatalist[12] * 100 - wadatalist[14] * 100, 1)} points from {round(wadatalist[14] * 100, 1)}% during  {years_strings[2]}. </em>{siglistwa[9]}</em></li>
+		<li>{round(wadatalist[12] * 100 - wadatalist[13] * 100, 1)} points from {round(wadatalist[13] * 100, 1)}% during {years_strings[1]}. </em>{siglistwa[8]}</em></li>
+		<li>{round(wadatalist[12] * 100 - wadatalist[14] * 100, 1)} points from {round(wadatalist[14] * 100, 1)}% during {years_strings[2]}. </em>{siglistwa[9]}</em></li>
 	</ul>
 	</li>
 	<li>Native Hawaiian &amp; Pacific Islander (Non-Hispanic) was {round(wadatalist[15] * 100, 1)}%, changing by: 
 	<ul style="list-style-type:circle">
-		<li>{round(wadatalist[15] * 100 - wadatalist[16] * 100, 1)} points from {round(wadatalist[16] * 100, 1)}% during  {years_strings[1]}. </em>{siglistwa[10]}</em></li>
-		<li>{round(wadatalist[15] * 100 - wadatalist[17] * 100, 1)} points from {round(wadatalist[17] * 100, 1)}% during  {years_strings[2]}. </em>{siglistwa[11]}</em></li>
+		<li>{round(wadatalist[15] * 100 - wadatalist[16] * 100, 1)} points from {round(wadatalist[16] * 100, 1)}% during {years_strings[1]}. </em>{siglistwa[10]}</em></li>
+		<li>{round(wadatalist[15] * 100 - wadatalist[17] * 100, 1)} points from {round(wadatalist[17] * 100, 1)}% during {years_strings[2]}. </em>{siglistwa[11]}</em></li>
 	</ul>
 	</li>
 	<li>Some other race was {round(wadatalist[18] * 100, 1)}%, changing by:
 	<ul style="list-style-type:circle">
-		<li>{round(wadatalist[18] * 100 - wadatalist[19] * 100, 1)} points from {round(wadatalist[19] * 100, 1)}% during  {years_strings[1]}. </em>{siglistwa[12]}</em></li>
-		<li>{round(wadatalist[18] * 100 - wadatalist[20] * 100, 1)} points from {round(wadatalist[20] * 100, 1)}% during  {years_strings[2]}. </em>{siglistwa[13]}</em></li>
+		<li>{round(wadatalist[18] * 100 - wadatalist[19] * 100, 1)} points from {round(wadatalist[19] * 100, 1)}% during {years_strings[1]}. </em>{siglistwa[12]}</em></li>
+		<li>{round(wadatalist[18] * 100 - wadatalist[20] * 100, 1)} points from {round(wadatalist[20] * 100, 1)}% during {years_strings[2]}. </em>{siglistwa[13]}</em></li>
 	</ul>
 	</li>
 	<li>Two or more races was {round(wadatalist[21] * 100, 1)}%, changing by:
 	<ul style="list-style-type:circle">
-		<li>{round(wadatalist[21] * 100 - wadatalist[22] * 100, 1)} points from {round(wadatalist[22] * 100, 1)}% during  {years_strings[1]}. </em>{siglistwa[14]}</em></li>
-		<li>{round(wadatalist[21] * 100 - wadatalist[23] * 100, 1)} points from {round(wadatalist[23] * 100, 1)}% during  {years_strings[2]}. </em>{siglistwa[15]}</em></li>
+		<li>{round(wadatalist[21] * 100 - wadatalist[22] * 100, 1)} points from {round(wadatalist[22] * 100, 1)}% during {years_strings[1]}. </em>{siglistwa[14]}</em></li>
+		<li>{round(wadatalist[21] * 100 - wadatalist[23] * 100, 1)} points from {round(wadatalist[23] * 100, 1)}% during {years_strings[2]}. </em>{siglistwa[15]}</em></li>
 	</ul>
 	</li>
 </ul>

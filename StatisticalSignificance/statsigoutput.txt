@@ -5632,223 +5632,6 @@
 
 <p><strong><em>Note: </em></strong><em>ACS 5-Year Estimates.</em></p>
 ======================================================
-<p><em>Note: Due to the low survey response rate during the Covid-19 pandemic, the 1 year estimates of the ACS for 2020 will not be available.</em></p>
-<p>During the 2019 interval in <strong>United States</strong>, the estimated non-white shares of the total population who were:</p>
-
-<ul>
-	<li>Hispanic (may be of any race) was 18.4%, changing by: 
-	<ul style="list-style-type:circle">
-		<li>0.2 points from 18.3% during 2018. </em></em></li>
-		<li>1.1 points from 17.3% during 2014. </em></em></li>
-	</ul>
-	</li>
-	<li>White (Non-Hispanic) was 60.0%, changing by: 
-	<ul style="list-style-type:circle">
-		<li>-0.3 points from 60.2% during 2018. </em>(statistically significant)</em></li>
-		<li>-2.0 points from 61.9% during 2014. </em>(statistically significant)</em></li>
-	</ul>
-	</li>
-	<li>Black or African-American (Non-Hispanic) was 12.4%, changing by: 
-	<ul style="list-style-type:circle">
-		<li>0.0 points from 12.3% during 2018. </em>(statistically significant)</em></li>
-		<li>0.1 points from 12.3% during 2014. </em>(statistically significant)</em></li>
-	</ul>
-	</li>
-	<li>American Indian (Non-Hispanic) was 0.7%, changing by: 
-	<ul style="list-style-type:circle">
-		<li>0.0 points from 0.7% during 2018. </em>(statistically significant)</em></li>
-		<li>0.0 points from 0.7% during 2014. </em>(statistically significant)</em></li>
-	</ul>
-	</li>
-	<li>Asian (Non-Hispanic) was 5.6%, changing by: 
-	<ul style="list-style-type:circle">
-		<li>0.1 points from 5.6% during 2018. </em>(statistically significant)</em></li>
-		<li>0.4 points from 5.2% during 2014. </em>(statistically significant)</em></li>
-	</ul>
-	</li>
-	<li>Native Hawaiian &amp; Pacific Islander (Non-Hispanic) was 0.2%, changing by: 
-	<ul style="list-style-type:circle">
-		<li>0.0 points from 0.2% during 2018. </em>(not statistically significant)</em></li>
-		<li>0.0 points from 0.2% during 2014. </em>(statistically significant)</em></li>
-	</ul>
-	</li>
-	<li>Some other race was 0.3%, changing by:
-	<ul style="list-style-type:circle">
-		<li>0.0 points from 0.3% during 2018. </em>(not statistically significant)</em></li>
-		<li>0.0 points from 0.2% during 2014. </em>(statistically significant)</em></li>
-	</ul>
-	</li>
-	<li>Two or more races was 2.5%, changing by:
-	<ul style="list-style-type:circle">
-		<li>-0.0 points from 2.5% during 2018. </em>(not statistically significant)</em></li>
-		<li>0.3 points from 2.2% during 2014. </em>(statistically significant)</em></li>
-	</ul>
-	</li>
-</ul>
-
-<p>During 2019 in <strong>Washington State</strong>, the estimated non-white shares of the total population who were:</p>
-
-<ul>
-	<li>Hispanic (may be of any race) was 13.0%, changing by: 
-	<ul style="list-style-type:circle">
-		<li>0.1 points from 12.9% during  2018. </em></em></li>
-		<li>0.9 points from 12.2% during  2014. </em></em></li>
-	</ul>
-	</li>
-	<li>White (Non-Hispanic) was 67.3%, changing by: 
-	<ul style="list-style-type:circle">
-		<li>-0.5 points from 67.8% during  2018. </em>(statistically significant)</em></li>
-		<li>-2.9 points from 70.2% during  2014. </em>(statistically significant)</em></li>
-	</ul>
-	</li>
-	<li>Black or African-American (Non-Hispanic) was 3.9%, changing by: 
-	<ul style="list-style-type:circle">
-		<li>0.1 points from 3.7% during  2018. </em>(statistically significant)</em></li>
-		<li>0.4 points from 3.4% during  2014. </em>(statistically significant)</em></li>
-	</ul>
-	</li>
-	<li>American Indian (Non-Hispanic) was 1.1%, changing by: 
-	<ul style="list-style-type:circle">
-		<li>0.1 points from 1.1% during  2018. </em>(not statistically significant)</em></li>
-		<li>-0.0 points from 1.2% during  2014. </em>(not statistically significant)</em></li>
-	</ul>
-	</li>
-	<li>Asian (Non-Hispanic) was 8.9%, changing by: 
-	<ul style="list-style-type:circle">
-		<li>0.2 points from 8.7% during  2018. </em>(statistically significant)</em></li>
-		<li>1.1 points from 7.8% during  2014. </em>(statistically significant)</em></li>
-	</ul>
-	</li>
-	<li>Native Hawaiian &amp; Pacific Islander (Non-Hispanic) was 0.6%, changing by: 
-	<ul style="list-style-type:circle">
-		<li>-0.0 points from 0.7% during  2018. </em>(not statistically significant)</em></li>
-		<li>0.0 points from 0.6% during  2014. </em>(not statistically significant)</em></li>
-	</ul>
-	</li>
-	<li>Some other race was 0.2%, changing by:
-	<ul style="list-style-type:circle">
-		<li>0.0 points from 0.2% during  2018. </em>(not statistically significant)</em></li>
-		<li>0.1 points from 0.1% during  2014. </em>(statistically significant)</em></li>
-	</ul>
-	</li>
-	<li>Two or more races was 4.9%, changing by:
-	<ul style="list-style-type:circle">
-		<li>-0.0 points from 4.9% during  2018. </em>(not statistically significant)</em></li>
-		<li>0.4 points from 4.4% during  2014. </em>(statistically significant)</em></li>
-	</ul>
-	</li>
-</ul>
-
-<p><strong><em>Note: </em></strong><em>ACS 1-Year Estimates.</em></p>
-======================================================
-<p>During the the 2016-2020 interval interval in <strong>United States</strong>, the estimated non-white shares of the total population who were:</p>
-
-<ul>
-	<li>Hispanic (may be of any race) was 12.9%, changing by: 
-	<ul style="list-style-type:circle">
-		<li>-5.1 points from 18.0% during the 2015-2019 interval. </em></em></li>
-		<li>-4.2 points from 17.1% during the 2011-2015 interval. </em></em></li>
-	</ul>
-	</li>
-	<li>White (Non-Hispanic) was 67.5%, changing by: 
-	<ul style="list-style-type:circle">
-		<li>6.8 points from 60.7% during the 2015-2019 interval. </em>(statistically significant)</em></li>
-		<li>5.1 points from 62.3% during the 2011-2015 interval. </em>(statistically significant)</em></li>
-	</ul>
-	</li>
-	<li>Black or African-American (Non-Hispanic) was 3.7%, changing by: 
-	<ul style="list-style-type:circle">
-		<li>-8.6 points from 12.3% during the 2015-2019 interval. </em>(not statistically significant)</em></li>
-		<li>-8.5 points from 12.3% during the 2011-2015 interval. </em>(statistically significant)</em></li>
-	</ul>
-	</li>
-	<li>American Indian (Non-Hispanic) was 1.0%, changing by: 
-	<ul style="list-style-type:circle">
-		<li>0.3 points from 0.7% during the 2015-2019 interval. </em>(statistically significant)</em></li>
-		<li>0.4 points from 0.7% during the 2011-2015 interval. </em>(not statistically significant)</em></li>
-	</ul>
-	</li>
-	<li>Asian (Non-Hispanic) was 8.7%, changing by: 
-	<ul style="list-style-type:circle">
-		<li>3.3 points from 5.5% during the 2015-2019 interval. </em>(statistically significant)</em></li>
-		<li>3.7 points from 5.1% during the 2011-2015 interval. </em>(statistically significant)</em></li>
-	</ul>
-	</li>
-	<li>Native Hawaiian &amp; Pacific Islander (Non-Hispanic) was 0.7%, changing by: 
-	<ul style="list-style-type:circle">
-		<li>0.5 points from 0.2% during the 2015-2019 interval. </em>(statistically significant)</em></li>
-		<li>0.5 points from 0.2% during the 2011-2015 interval. </em>(statistically significant)</em></li>
-	</ul>
-	</li>
-	<li>Some other race was 0.3%, changing by:
-	<ul style="list-style-type:circle">
-		<li>0.1 points from 0.2% during the 2015-2019 interval. </em>(statistically significant)</em></li>
-		<li>0.1 points from 0.2% during the 2011-2015 interval. </em>(statistically significant)</em></li>
-	</ul>
-	</li>
-	<li>Two or more races was 5.2%, changing by:
-	<ul style="list-style-type:circle">
-		<li>2.7 points from 2.4% during the 2015-2019 interval. </em>(statistically significant)</em></li>
-		<li>3.0 points from 2.2% during the 2011-2015 interval. </em>(statistically significant)</em></li>
-	</ul>
-	</li>
-</ul>
-
-<p>During the 2016-2020 interval in <strong>Washington State</strong>, the estimated non-white shares of the total population who were:</p>
-
-<ul>
-	<li>Hispanic (may be of any race) was 18.2%, changing by: 
-	<ul style="list-style-type:circle">
-		<li>5.5 points from 12.7% during  the 2015-2019 interval. </em></em></li>
-		<li>6.2 points from 12.0% during  the 2011-2015 interval. </em></em></li>
-	</ul>
-	</li>
-	<li>White (Non-Hispanic) was 60.1%, changing by: 
-	<ul style="list-style-type:circle">
-		<li>-8.4 points from 68.5% during  the 2015-2019 interval. </em>(statistically significant)</em></li>
-		<li>-10.7 points from 70.8% during  the 2011-2015 interval. </em>(statistically significant)</em></li>
-	</ul>
-	</li>
-	<li>Black or African-American (Non-Hispanic) was 12.2%, changing by: 
-	<ul style="list-style-type:circle">
-		<li>8.6 points from 3.7% during  the 2015-2019 interval. </em>(statistically significant)</em></li>
-		<li>8.8 points from 3.5% during  the 2011-2015 interval. </em>(statistically significant)</em></li>
-	</ul>
-	</li>
-	<li>American Indian (Non-Hispanic) was 0.6%, changing by: 
-	<ul style="list-style-type:circle">
-		<li>-0.4 points from 1.1% during  the 2015-2019 interval. </em>(statistically significant)</em></li>
-		<li>-0.5 points from 1.2% during  the 2011-2015 interval. </em>(statistically significant)</em></li>
-	</ul>
-	</li>
-	<li>Asian (Non-Hispanic) was 5.6%, changing by: 
-	<ul style="list-style-type:circle">
-		<li>-2.9 points from 8.5% during  the 2015-2019 interval. </em>(statistically significant)</em></li>
-		<li>-2.0 points from 7.6% during  the 2011-2015 interval. </em>(statistically significant)</em></li>
-	</ul>
-	</li>
-	<li>Native Hawaiian &amp; Pacific Islander (Non-Hispanic) was 0.2%, changing by: 
-	<ul style="list-style-type:circle">
-		<li>-0.5 points from 0.6% during  the 2015-2019 interval. </em>(not statistically significant)</em></li>
-		<li>-0.4 points from 0.6% during  the 2011-2015 interval. </em>(statistically significant)</em></li>
-	</ul>
-	</li>
-	<li>Some other race was 0.3%, changing by:
-	<ul style="list-style-type:circle">
-		<li>0.1 points from 0.2% during  the 2015-2019 interval. </em>(statistically significant)</em></li>
-		<li>0.2 points from 0.1% during  the 2011-2015 interval. </em>(statistically significant)</em></li>
-	</ul>
-	</li>
-	<li>Two or more races was 2.8%, changing by:
-	<ul style="list-style-type:circle">
-		<li>-2.0 points from 4.8% during  the 2015-2019 interval. </em>(statistically significant)</em></li>
-		<li>-1.5 points from 4.3% during  the 2011-2015 interval. </em>(statistically significant)</em></li>
-	</ul>
-	</li>
-</ul>
-
-<p><strong><em>Note: </em></strong><em>ACS 5-Year Estimates.</em></p>
-======================================================
 <p>During the the 2016-2020 interval interval in <strong>Wahkiakum County</strong>, the estimated non-white shares of the total population who were:</p>
 
 <ul>
@@ -6006,223 +5789,6 @@
 	<ul style="list-style-type:circle">
 		<li>0.0 points from 3.2% during the 2015-2019 interval. </em>(not statistically significant)</em></li>
 		<li>0.6 points from 2.6% during the 2011-2015 interval. </em>(not statistically significant)</em></li>
-	</ul>
-	</li>
-</ul>
-
-<p>During the 2016-2020 interval in <strong>Washington State</strong>, the estimated non-white shares of the total population who were:</p>
-
-<ul>
-	<li>Hispanic (may be of any race) was 18.2%, changing by: 
-	<ul style="list-style-type:circle">
-		<li>5.5 points from 12.7% during  the 2015-2019 interval. </em></em></li>
-		<li>6.2 points from 12.0% during  the 2011-2015 interval. </em></em></li>
-	</ul>
-	</li>
-	<li>White (Non-Hispanic) was 60.1%, changing by: 
-	<ul style="list-style-type:circle">
-		<li>-8.4 points from 68.5% during  the 2015-2019 interval. </em>(statistically significant)</em></li>
-		<li>-10.7 points from 70.8% during  the 2011-2015 interval. </em>(statistically significant)</em></li>
-	</ul>
-	</li>
-	<li>Black or African-American (Non-Hispanic) was 12.2%, changing by: 
-	<ul style="list-style-type:circle">
-		<li>8.6 points from 3.7% during  the 2015-2019 interval. </em>(statistically significant)</em></li>
-		<li>8.8 points from 3.5% during  the 2011-2015 interval. </em>(statistically significant)</em></li>
-	</ul>
-	</li>
-	<li>American Indian (Non-Hispanic) was 0.6%, changing by: 
-	<ul style="list-style-type:circle">
-		<li>-0.4 points from 1.1% during  the 2015-2019 interval. </em>(statistically significant)</em></li>
-		<li>-0.5 points from 1.2% during  the 2011-2015 interval. </em>(statistically significant)</em></li>
-	</ul>
-	</li>
-	<li>Asian (Non-Hispanic) was 5.6%, changing by: 
-	<ul style="list-style-type:circle">
-		<li>-2.9 points from 8.5% during  the 2015-2019 interval. </em>(statistically significant)</em></li>
-		<li>-2.0 points from 7.6% during  the 2011-2015 interval. </em>(statistically significant)</em></li>
-	</ul>
-	</li>
-	<li>Native Hawaiian &amp; Pacific Islander (Non-Hispanic) was 0.2%, changing by: 
-	<ul style="list-style-type:circle">
-		<li>-0.5 points from 0.6% during  the 2015-2019 interval. </em>(not statistically significant)</em></li>
-		<li>-0.4 points from 0.6% during  the 2011-2015 interval. </em>(statistically significant)</em></li>
-	</ul>
-	</li>
-	<li>Some other race was 0.3%, changing by:
-	<ul style="list-style-type:circle">
-		<li>0.1 points from 0.2% during  the 2015-2019 interval. </em>(statistically significant)</em></li>
-		<li>0.2 points from 0.1% during  the 2011-2015 interval. </em>(statistically significant)</em></li>
-	</ul>
-	</li>
-	<li>Two or more races was 2.8%, changing by:
-	<ul style="list-style-type:circle">
-		<li>-2.0 points from 4.8% during  the 2015-2019 interval. </em>(statistically significant)</em></li>
-		<li>-1.5 points from 4.3% during  the 2011-2015 interval. </em>(statistically significant)</em></li>
-	</ul>
-	</li>
-</ul>
-
-<p><strong><em>Note: </em></strong><em>ACS 5-Year Estimates.</em></p>
-======================================================
-<p><em>Note: Due to the low survey response rate during the Covid-19 pandemic, the 1 year estimates of the ACS for 2020 will not be available.</em></p>
-<p>During the 2019 interval in <strong>Washington State</strong>, the estimated non-white shares of the total population who were:</p>
-
-<ul>
-	<li>Hispanic (may be of any race) was 13.0%, changing by: 
-	<ul style="list-style-type:circle">
-		<li>0.1 points from 12.9% during 2018. </em></em></li>
-		<li>0.9 points from 12.2% during 2014. </em></em></li>
-	</ul>
-	</li>
-	<li>White (Non-Hispanic) was 67.3%, changing by: 
-	<ul style="list-style-type:circle">
-		<li>-0.5 points from 67.8% during 2018. </em>(statistically significant)</em></li>
-		<li>-2.9 points from 70.2% during 2014. </em>(statistically significant)</em></li>
-	</ul>
-	</li>
-	<li>Black or African-American (Non-Hispanic) was 3.9%, changing by: 
-	<ul style="list-style-type:circle">
-		<li>0.1 points from 3.7% during 2018. </em>(statistically significant)</em></li>
-		<li>0.4 points from 3.4% during 2014. </em>(statistically significant)</em></li>
-	</ul>
-	</li>
-	<li>American Indian (Non-Hispanic) was 1.1%, changing by: 
-	<ul style="list-style-type:circle">
-		<li>0.1 points from 1.1% during 2018. </em>(not statistically significant)</em></li>
-		<li>-0.0 points from 1.2% during 2014. </em>(not statistically significant)</em></li>
-	</ul>
-	</li>
-	<li>Asian (Non-Hispanic) was 8.9%, changing by: 
-	<ul style="list-style-type:circle">
-		<li>0.2 points from 8.7% during 2018. </em>(statistically significant)</em></li>
-		<li>1.1 points from 7.8% during 2014. </em>(statistically significant)</em></li>
-	</ul>
-	</li>
-	<li>Native Hawaiian &amp; Pacific Islander (Non-Hispanic) was 0.6%, changing by: 
-	<ul style="list-style-type:circle">
-		<li>-0.0 points from 0.7% during 2018. </em>(not statistically significant)</em></li>
-		<li>0.0 points from 0.6% during 2014. </em>(not statistically significant)</em></li>
-	</ul>
-	</li>
-	<li>Some other race was 0.2%, changing by:
-	<ul style="list-style-type:circle">
-		<li>0.0 points from 0.2% during 2018. </em>(not statistically significant)</em></li>
-		<li>0.1 points from 0.1% during 2014. </em>(statistically significant)</em></li>
-	</ul>
-	</li>
-	<li>Two or more races was 4.9%, changing by:
-	<ul style="list-style-type:circle">
-		<li>-0.0 points from 4.9% during 2018. </em>(not statistically significant)</em></li>
-		<li>0.4 points from 4.4% during 2014. </em>(statistically significant)</em></li>
-	</ul>
-	</li>
-</ul>
-
-<p>During 2019 in <strong>Washington State</strong>, the estimated non-white shares of the total population who were:</p>
-
-<ul>
-	<li>Hispanic (may be of any race) was 13.0%, changing by: 
-	<ul style="list-style-type:circle">
-		<li>0.1 points from 12.9% during  2018. </em></em></li>
-		<li>0.9 points from 12.2% during  2014. </em></em></li>
-	</ul>
-	</li>
-	<li>White (Non-Hispanic) was 67.3%, changing by: 
-	<ul style="list-style-type:circle">
-		<li>-0.5 points from 67.8% during  2018. </em>(statistically significant)</em></li>
-		<li>-2.9 points from 70.2% during  2014. </em>(statistically significant)</em></li>
-	</ul>
-	</li>
-	<li>Black or African-American (Non-Hispanic) was 3.9%, changing by: 
-	<ul style="list-style-type:circle">
-		<li>0.1 points from 3.7% during  2018. </em>(statistically significant)</em></li>
-		<li>0.4 points from 3.4% during  2014. </em>(statistically significant)</em></li>
-	</ul>
-	</li>
-	<li>American Indian (Non-Hispanic) was 1.1%, changing by: 
-	<ul style="list-style-type:circle">
-		<li>0.1 points from 1.1% during  2018. </em>(not statistically significant)</em></li>
-		<li>-0.0 points from 1.2% during  2014. </em>(not statistically significant)</em></li>
-	</ul>
-	</li>
-	<li>Asian (Non-Hispanic) was 8.9%, changing by: 
-	<ul style="list-style-type:circle">
-		<li>0.2 points from 8.7% during  2018. </em>(statistically significant)</em></li>
-		<li>1.1 points from 7.8% during  2014. </em>(statistically significant)</em></li>
-	</ul>
-	</li>
-	<li>Native Hawaiian &amp; Pacific Islander (Non-Hispanic) was 0.6%, changing by: 
-	<ul style="list-style-type:circle">
-		<li>-0.0 points from 0.7% during  2018. </em>(not statistically significant)</em></li>
-		<li>0.0 points from 0.6% during  2014. </em>(not statistically significant)</em></li>
-	</ul>
-	</li>
-	<li>Some other race was 0.2%, changing by:
-	<ul style="list-style-type:circle">
-		<li>0.0 points from 0.2% during  2018. </em>(not statistically significant)</em></li>
-		<li>0.1 points from 0.1% during  2014. </em>(statistically significant)</em></li>
-	</ul>
-	</li>
-	<li>Two or more races was 4.9%, changing by:
-	<ul style="list-style-type:circle">
-		<li>-0.0 points from 4.9% during  2018. </em>(not statistically significant)</em></li>
-		<li>0.4 points from 4.4% during  2014. </em>(statistically significant)</em></li>
-	</ul>
-	</li>
-</ul>
-
-<p><strong><em>Note: </em></strong><em>ACS 1-Year Estimates.</em></p>
-======================================================
-<p>During the the 2016-2020 interval interval in <strong>Washington State</strong>, the estimated non-white shares of the total population who were:</p>
-
-<ul>
-	<li>Hispanic (may be of any race) was 18.2%, changing by: 
-	<ul style="list-style-type:circle">
-		<li>5.5 points from 12.7% during the 2015-2019 interval. </em></em></li>
-		<li>6.2 points from 12.0% during the 2011-2015 interval. </em></em></li>
-	</ul>
-	</li>
-	<li>White (Non-Hispanic) was 60.1%, changing by: 
-	<ul style="list-style-type:circle">
-		<li>-8.4 points from 68.5% during the 2015-2019 interval. </em>(statistically significant)</em></li>
-		<li>-10.7 points from 70.8% during the 2011-2015 interval. </em>(statistically significant)</em></li>
-	</ul>
-	</li>
-	<li>Black or African-American (Non-Hispanic) was 12.2%, changing by: 
-	<ul style="list-style-type:circle">
-		<li>8.6 points from 3.7% during the 2015-2019 interval. </em>(statistically significant)</em></li>
-		<li>8.8 points from 3.5% during the 2011-2015 interval. </em>(statistically significant)</em></li>
-	</ul>
-	</li>
-	<li>American Indian (Non-Hispanic) was 0.6%, changing by: 
-	<ul style="list-style-type:circle">
-		<li>-0.4 points from 1.1% during the 2015-2019 interval. </em>(statistically significant)</em></li>
-		<li>-0.5 points from 1.2% during the 2011-2015 interval. </em>(statistically significant)</em></li>
-	</ul>
-	</li>
-	<li>Asian (Non-Hispanic) was 5.6%, changing by: 
-	<ul style="list-style-type:circle">
-		<li>-2.9 points from 8.5% during the 2015-2019 interval. </em>(statistically significant)</em></li>
-		<li>-2.0 points from 7.6% during the 2011-2015 interval. </em>(statistically significant)</em></li>
-	</ul>
-	</li>
-	<li>Native Hawaiian &amp; Pacific Islander (Non-Hispanic) was 0.2%, changing by: 
-	<ul style="list-style-type:circle">
-		<li>-0.5 points from 0.6% during the 2015-2019 interval. </em>(not statistically significant)</em></li>
-		<li>-0.4 points from 0.6% during the 2011-2015 interval. </em>(statistically significant)</em></li>
-	</ul>
-	</li>
-	<li>Some other race was 0.3%, changing by:
-	<ul style="list-style-type:circle">
-		<li>0.1 points from 0.2% during the 2015-2019 interval. </em>(statistically significant)</em></li>
-		<li>0.2 points from 0.1% during the 2011-2015 interval. </em>(statistically significant)</em></li>
-	</ul>
-	</li>
-	<li>Two or more races was 2.8%, changing by:
-	<ul style="list-style-type:circle">
-		<li>-2.0 points from 4.8% during the 2015-2019 interval. </em>(statistically significant)</em></li>
-		<li>-1.5 points from 4.3% during the 2011-2015 interval. </em>(statistically significant)</em></li>
 	</ul>
 	</li>
 </ul>
@@ -6874,6 +6440,440 @@
 	<ul style="list-style-type:circle">
 		<li>0.4 points from 2.0% during the 2015-2019 interval. </em>(not statistically significant)</em></li>
 		<li>0.4 points from 2.0% during the 2011-2015 interval. </em>(statistically significant)</em></li>
+	</ul>
+	</li>
+</ul>
+
+<p>During the 2016-2020 interval in <strong>Washington State</strong>, the estimated non-white shares of the total population who were:</p>
+
+<ul>
+	<li>Hispanic (may be of any race) was 18.2%, changing by: 
+	<ul style="list-style-type:circle">
+		<li>5.5 points from 12.7% during  the 2015-2019 interval. </em></em></li>
+		<li>6.2 points from 12.0% during  the 2011-2015 interval. </em></em></li>
+	</ul>
+	</li>
+	<li>White (Non-Hispanic) was 60.1%, changing by: 
+	<ul style="list-style-type:circle">
+		<li>-8.4 points from 68.5% during  the 2015-2019 interval. </em>(statistically significant)</em></li>
+		<li>-10.7 points from 70.8% during  the 2011-2015 interval. </em>(statistically significant)</em></li>
+	</ul>
+	</li>
+	<li>Black or African-American (Non-Hispanic) was 12.2%, changing by: 
+	<ul style="list-style-type:circle">
+		<li>8.6 points from 3.7% during  the 2015-2019 interval. </em>(statistically significant)</em></li>
+		<li>8.8 points from 3.5% during  the 2011-2015 interval. </em>(statistically significant)</em></li>
+	</ul>
+	</li>
+	<li>American Indian (Non-Hispanic) was 0.6%, changing by: 
+	<ul style="list-style-type:circle">
+		<li>-0.4 points from 1.1% during  the 2015-2019 interval. </em>(statistically significant)</em></li>
+		<li>-0.5 points from 1.2% during  the 2011-2015 interval. </em>(statistically significant)</em></li>
+	</ul>
+	</li>
+	<li>Asian (Non-Hispanic) was 5.6%, changing by: 
+	<ul style="list-style-type:circle">
+		<li>-2.9 points from 8.5% during  the 2015-2019 interval. </em>(statistically significant)</em></li>
+		<li>-2.0 points from 7.6% during  the 2011-2015 interval. </em>(statistically significant)</em></li>
+	</ul>
+	</li>
+	<li>Native Hawaiian &amp; Pacific Islander (Non-Hispanic) was 0.2%, changing by: 
+	<ul style="list-style-type:circle">
+		<li>-0.5 points from 0.6% during  the 2015-2019 interval. </em>(not statistically significant)</em></li>
+		<li>-0.4 points from 0.6% during  the 2011-2015 interval. </em>(statistically significant)</em></li>
+	</ul>
+	</li>
+	<li>Some other race was 0.3%, changing by:
+	<ul style="list-style-type:circle">
+		<li>0.1 points from 0.2% during  the 2015-2019 interval. </em>(statistically significant)</em></li>
+		<li>0.2 points from 0.1% during  the 2011-2015 interval. </em>(statistically significant)</em></li>
+	</ul>
+	</li>
+	<li>Two or more races was 2.8%, changing by:
+	<ul style="list-style-type:circle">
+		<li>-2.0 points from 4.8% during  the 2015-2019 interval. </em>(statistically significant)</em></li>
+		<li>-1.5 points from 4.3% during  the 2011-2015 interval. </em>(statistically significant)</em></li>
+	</ul>
+	</li>
+</ul>
+
+<p><strong><em>Note: </em></strong><em>ACS 5-Year Estimates.</em></p>
+======================================================
+<p><em>Note: Due to the low survey response rate during the Covid-19 pandemic, the 1 year estimates of the ACS for 2020 will not be available.</em></p>
+<p>During the 2019 interval in <strong>Washington State</strong>, the estimated non-white shares of the total population who were:</p>
+
+<ul>
+	<li>Hispanic (may be of any race) was 13.0%, changing by: 
+	<ul style="list-style-type:circle">
+		<li>0.1 points from 12.9% during 2018. </em></em></li>
+		<li>0.9 points from 12.2% during 2014. </em></em></li>
+	</ul>
+	</li>
+	<li>White (Non-Hispanic) was 67.3%, changing by: 
+	<ul style="list-style-type:circle">
+		<li>-0.5 points from 67.8% during 2018. </em>(statistically significant)</em></li>
+		<li>-2.9 points from 70.2% during 2014. </em>(statistically significant)</em></li>
+	</ul>
+	</li>
+	<li>Black or African-American (Non-Hispanic) was 3.9%, changing by: 
+	<ul style="list-style-type:circle">
+		<li>0.1 points from 3.7% during 2018. </em>(statistically significant)</em></li>
+		<li>0.4 points from 3.4% during 2014. </em>(statistically significant)</em></li>
+	</ul>
+	</li>
+	<li>American Indian (Non-Hispanic) was 1.1%, changing by: 
+	<ul style="list-style-type:circle">
+		<li>0.1 points from 1.1% during 2018. </em>(not statistically significant)</em></li>
+		<li>-0.0 points from 1.2% during 2014. </em>(not statistically significant)</em></li>
+	</ul>
+	</li>
+	<li>Asian (Non-Hispanic) was 8.9%, changing by: 
+	<ul style="list-style-type:circle">
+		<li>0.2 points from 8.7% during 2018. </em>(statistically significant)</em></li>
+		<li>1.1 points from 7.8% during 2014. </em>(statistically significant)</em></li>
+	</ul>
+	</li>
+	<li>Native Hawaiian &amp; Pacific Islander (Non-Hispanic) was 0.6%, changing by: 
+	<ul style="list-style-type:circle">
+		<li>-0.0 points from 0.7% during 2018. </em>(not statistically significant)</em></li>
+		<li>0.0 points from 0.6% during 2014. </em>(not statistically significant)</em></li>
+	</ul>
+	</li>
+	<li>Some other race was 0.2%, changing by:
+	<ul style="list-style-type:circle">
+		<li>0.0 points from 0.2% during 2018. </em>(not statistically significant)</em></li>
+		<li>0.1 points from 0.1% during 2014. </em>(statistically significant)</em></li>
+	</ul>
+	</li>
+	<li>Two or more races was 4.9%, changing by:
+	<ul style="list-style-type:circle">
+		<li>-0.0 points from 4.9% during 2018. </em>(not statistically significant)</em></li>
+		<li>0.4 points from 4.4% during 2014. </em>(statistically significant)</em></li>
+	</ul>
+	</li>
+</ul>
+
+<p>During 2019 in <strong>Washington State</strong>, the estimated non-white shares of the total population who were:</p>
+
+<ul>
+	<li>Hispanic (may be of any race) was 13.0%, changing by: 
+	<ul style="list-style-type:circle">
+		<li>0.1 points from 12.9% during  2018. </em></em></li>
+		<li>0.9 points from 12.2% during  2014. </em></em></li>
+	</ul>
+	</li>
+	<li>White (Non-Hispanic) was 67.3%, changing by: 
+	<ul style="list-style-type:circle">
+		<li>-0.5 points from 67.8% during  2018. </em>(statistically significant)</em></li>
+		<li>-2.9 points from 70.2% during  2014. </em>(statistically significant)</em></li>
+	</ul>
+	</li>
+	<li>Black or African-American (Non-Hispanic) was 3.9%, changing by: 
+	<ul style="list-style-type:circle">
+		<li>0.1 points from 3.7% during  2018. </em>(statistically significant)</em></li>
+		<li>0.4 points from 3.4% during  2014. </em>(statistically significant)</em></li>
+	</ul>
+	</li>
+	<li>American Indian (Non-Hispanic) was 1.1%, changing by: 
+	<ul style="list-style-type:circle">
+		<li>0.1 points from 1.1% during  2018. </em>(not statistically significant)</em></li>
+		<li>-0.0 points from 1.2% during  2014. </em>(not statistically significant)</em></li>
+	</ul>
+	</li>
+	<li>Asian (Non-Hispanic) was 8.9%, changing by: 
+	<ul style="list-style-type:circle">
+		<li>0.2 points from 8.7% during  2018. </em>(statistically significant)</em></li>
+		<li>1.1 points from 7.8% during  2014. </em>(statistically significant)</em></li>
+	</ul>
+	</li>
+	<li>Native Hawaiian &amp; Pacific Islander (Non-Hispanic) was 0.6%, changing by: 
+	<ul style="list-style-type:circle">
+		<li>-0.0 points from 0.7% during  2018. </em>(not statistically significant)</em></li>
+		<li>0.0 points from 0.6% during  2014. </em>(not statistically significant)</em></li>
+	</ul>
+	</li>
+	<li>Some other race was 0.2%, changing by:
+	<ul style="list-style-type:circle">
+		<li>0.0 points from 0.2% during  2018. </em>(not statistically significant)</em></li>
+		<li>0.1 points from 0.1% during  2014. </em>(statistically significant)</em></li>
+	</ul>
+	</li>
+	<li>Two or more races was 4.9%, changing by:
+	<ul style="list-style-type:circle">
+		<li>-0.0 points from 4.9% during  2018. </em>(not statistically significant)</em></li>
+		<li>0.4 points from 4.4% during  2014. </em>(statistically significant)</em></li>
+	</ul>
+	</li>
+</ul>
+
+<p><strong><em>Note: </em></strong><em>ACS 1-Year Estimates.</em></p>
+======================================================
+<p>During the the 2016-2020 interval interval in <strong>Washington State</strong>, the estimated non-white shares of the total population who were:</p>
+
+<ul>
+	<li>Hispanic (may be of any race) was 18.2%, changing by: 
+	<ul style="list-style-type:circle">
+		<li>5.5 points from 12.7% during the 2015-2019 interval. </em></em></li>
+		<li>6.2 points from 12.0% during the 2011-2015 interval. </em></em></li>
+	</ul>
+	</li>
+	<li>White (Non-Hispanic) was 60.1%, changing by: 
+	<ul style="list-style-type:circle">
+		<li>-8.4 points from 68.5% during the 2015-2019 interval. </em>(statistically significant)</em></li>
+		<li>-10.7 points from 70.8% during the 2011-2015 interval. </em>(statistically significant)</em></li>
+	</ul>
+	</li>
+	<li>Black or African-American (Non-Hispanic) was 12.2%, changing by: 
+	<ul style="list-style-type:circle">
+		<li>8.6 points from 3.7% during the 2015-2019 interval. </em>(statistically significant)</em></li>
+		<li>8.8 points from 3.5% during the 2011-2015 interval. </em>(statistically significant)</em></li>
+	</ul>
+	</li>
+	<li>American Indian (Non-Hispanic) was 0.6%, changing by: 
+	<ul style="list-style-type:circle">
+		<li>-0.4 points from 1.1% during the 2015-2019 interval. </em>(statistically significant)</em></li>
+		<li>-0.5 points from 1.2% during the 2011-2015 interval. </em>(statistically significant)</em></li>
+	</ul>
+	</li>
+	<li>Asian (Non-Hispanic) was 5.6%, changing by: 
+	<ul style="list-style-type:circle">
+		<li>-2.9 points from 8.5% during the 2015-2019 interval. </em>(statistically significant)</em></li>
+		<li>-2.0 points from 7.6% during the 2011-2015 interval. </em>(statistically significant)</em></li>
+	</ul>
+	</li>
+	<li>Native Hawaiian &amp; Pacific Islander (Non-Hispanic) was 0.2%, changing by: 
+	<ul style="list-style-type:circle">
+		<li>-0.5 points from 0.6% during the 2015-2019 interval. </em>(not statistically significant)</em></li>
+		<li>-0.4 points from 0.6% during the 2011-2015 interval. </em>(statistically significant)</em></li>
+	</ul>
+	</li>
+	<li>Some other race was 0.3%, changing by:
+	<ul style="list-style-type:circle">
+		<li>0.1 points from 0.2% during the 2015-2019 interval. </em>(statistically significant)</em></li>
+		<li>0.2 points from 0.1% during the 2011-2015 interval. </em>(statistically significant)</em></li>
+	</ul>
+	</li>
+	<li>Two or more races was 2.8%, changing by:
+	<ul style="list-style-type:circle">
+		<li>-2.0 points from 4.8% during the 2015-2019 interval. </em>(statistically significant)</em></li>
+		<li>-1.5 points from 4.3% during the 2011-2015 interval. </em>(statistically significant)</em></li>
+	</ul>
+	</li>
+</ul>
+
+<p>During the 2016-2020 interval in <strong>Washington State</strong>, the estimated non-white shares of the total population who were:</p>
+
+<ul>
+	<li>Hispanic (may be of any race) was 18.2%, changing by: 
+	<ul style="list-style-type:circle">
+		<li>5.5 points from 12.7% during  the 2015-2019 interval. </em></em></li>
+		<li>6.2 points from 12.0% during  the 2011-2015 interval. </em></em></li>
+	</ul>
+	</li>
+	<li>White (Non-Hispanic) was 60.1%, changing by: 
+	<ul style="list-style-type:circle">
+		<li>-8.4 points from 68.5% during  the 2015-2019 interval. </em>(statistically significant)</em></li>
+		<li>-10.7 points from 70.8% during  the 2011-2015 interval. </em>(statistically significant)</em></li>
+	</ul>
+	</li>
+	<li>Black or African-American (Non-Hispanic) was 12.2%, changing by: 
+	<ul style="list-style-type:circle">
+		<li>8.6 points from 3.7% during  the 2015-2019 interval. </em>(statistically significant)</em></li>
+		<li>8.8 points from 3.5% during  the 2011-2015 interval. </em>(statistically significant)</em></li>
+	</ul>
+	</li>
+	<li>American Indian (Non-Hispanic) was 0.6%, changing by: 
+	<ul style="list-style-type:circle">
+		<li>-0.4 points from 1.1% during  the 2015-2019 interval. </em>(statistically significant)</em></li>
+		<li>-0.5 points from 1.2% during  the 2011-2015 interval. </em>(statistically significant)</em></li>
+	</ul>
+	</li>
+	<li>Asian (Non-Hispanic) was 5.6%, changing by: 
+	<ul style="list-style-type:circle">
+		<li>-2.9 points from 8.5% during  the 2015-2019 interval. </em>(statistically significant)</em></li>
+		<li>-2.0 points from 7.6% during  the 2011-2015 interval. </em>(statistically significant)</em></li>
+	</ul>
+	</li>
+	<li>Native Hawaiian &amp; Pacific Islander (Non-Hispanic) was 0.2%, changing by: 
+	<ul style="list-style-type:circle">
+		<li>-0.5 points from 0.6% during  the 2015-2019 interval. </em>(not statistically significant)</em></li>
+		<li>-0.4 points from 0.6% during  the 2011-2015 interval. </em>(statistically significant)</em></li>
+	</ul>
+	</li>
+	<li>Some other race was 0.3%, changing by:
+	<ul style="list-style-type:circle">
+		<li>0.1 points from 0.2% during  the 2015-2019 interval. </em>(statistically significant)</em></li>
+		<li>0.2 points from 0.1% during  the 2011-2015 interval. </em>(statistically significant)</em></li>
+	</ul>
+	</li>
+	<li>Two or more races was 2.8%, changing by:
+	<ul style="list-style-type:circle">
+		<li>-2.0 points from 4.8% during  the 2015-2019 interval. </em>(statistically significant)</em></li>
+		<li>-1.5 points from 4.3% during  the 2011-2015 interval. </em>(statistically significant)</em></li>
+	</ul>
+	</li>
+</ul>
+
+<p><strong><em>Note: </em></strong><em>ACS 5-Year Estimates.</em></p>
+======================================================
+<p><em>Note: Due to the low survey response rate during the Covid-19 pandemic, the 1 year estimates of the ACS for 2020 will not be available.</em></p>
+<p>During the 2019 interval in <strong>United States</strong>, the estimated non-white shares of the total population who were:</p>
+
+<ul>
+	<li>Hispanic (may be of any race) was 18.4%, changing by: 
+	<ul style="list-style-type:circle">
+		<li>0.2 points from 18.3% during 2018. </em></em></li>
+		<li>1.1 points from 17.3% during 2014. </em></em></li>
+	</ul>
+	</li>
+	<li>White (Non-Hispanic) was 60.0%, changing by: 
+	<ul style="list-style-type:circle">
+		<li>-0.3 points from 60.2% during 2018. </em>(statistically significant)</em></li>
+		<li>-2.0 points from 61.9% during 2014. </em>(statistically significant)</em></li>
+	</ul>
+	</li>
+	<li>Black or African-American (Non-Hispanic) was 12.4%, changing by: 
+	<ul style="list-style-type:circle">
+		<li>0.0 points from 12.3% during 2018. </em>(statistically significant)</em></li>
+		<li>0.1 points from 12.3% during 2014. </em>(statistically significant)</em></li>
+	</ul>
+	</li>
+	<li>American Indian (Non-Hispanic) was 0.7%, changing by: 
+	<ul style="list-style-type:circle">
+		<li>0.0 points from 0.7% during 2018. </em>(statistically significant)</em></li>
+		<li>0.0 points from 0.7% during 2014. </em>(statistically significant)</em></li>
+	</ul>
+	</li>
+	<li>Asian (Non-Hispanic) was 5.6%, changing by: 
+	<ul style="list-style-type:circle">
+		<li>0.1 points from 5.6% during 2018. </em>(statistically significant)</em></li>
+		<li>0.4 points from 5.2% during 2014. </em>(statistically significant)</em></li>
+	</ul>
+	</li>
+	<li>Native Hawaiian &amp; Pacific Islander (Non-Hispanic) was 0.2%, changing by: 
+	<ul style="list-style-type:circle">
+		<li>0.0 points from 0.2% during 2018. </em>(not statistically significant)</em></li>
+		<li>0.0 points from 0.2% during 2014. </em>(statistically significant)</em></li>
+	</ul>
+	</li>
+	<li>Some other race was 0.3%, changing by:
+	<ul style="list-style-type:circle">
+		<li>0.0 points from 0.3% during 2018. </em>(not statistically significant)</em></li>
+		<li>0.0 points from 0.2% during 2014. </em>(statistically significant)</em></li>
+	</ul>
+	</li>
+	<li>Two or more races was 2.5%, changing by:
+	<ul style="list-style-type:circle">
+		<li>-0.0 points from 2.5% during 2018. </em>(not statistically significant)</em></li>
+		<li>0.3 points from 2.2% during 2014. </em>(statistically significant)</em></li>
+	</ul>
+	</li>
+</ul>
+
+<p>During 2019 in <strong>Washington State</strong>, the estimated non-white shares of the total population who were:</p>
+
+<ul>
+	<li>Hispanic (may be of any race) was 13.0%, changing by: 
+	<ul style="list-style-type:circle">
+		<li>0.1 points from 12.9% during  2018. </em></em></li>
+		<li>0.9 points from 12.2% during  2014. </em></em></li>
+	</ul>
+	</li>
+	<li>White (Non-Hispanic) was 67.3%, changing by: 
+	<ul style="list-style-type:circle">
+		<li>-0.5 points from 67.8% during  2018. </em>(statistically significant)</em></li>
+		<li>-2.9 points from 70.2% during  2014. </em>(statistically significant)</em></li>
+	</ul>
+	</li>
+	<li>Black or African-American (Non-Hispanic) was 3.9%, changing by: 
+	<ul style="list-style-type:circle">
+		<li>0.1 points from 3.7% during  2018. </em>(statistically significant)</em></li>
+		<li>0.4 points from 3.4% during  2014. </em>(statistically significant)</em></li>
+	</ul>
+	</li>
+	<li>American Indian (Non-Hispanic) was 1.1%, changing by: 
+	<ul style="list-style-type:circle">
+		<li>0.1 points from 1.1% during  2018. </em>(not statistically significant)</em></li>
+		<li>-0.0 points from 1.2% during  2014. </em>(not statistically significant)</em></li>
+	</ul>
+	</li>
+	<li>Asian (Non-Hispanic) was 8.9%, changing by: 
+	<ul style="list-style-type:circle">
+		<li>0.2 points from 8.7% during  2018. </em>(statistically significant)</em></li>
+		<li>1.1 points from 7.8% during  2014. </em>(statistically significant)</em></li>
+	</ul>
+	</li>
+	<li>Native Hawaiian &amp; Pacific Islander (Non-Hispanic) was 0.6%, changing by: 
+	<ul style="list-style-type:circle">
+		<li>-0.0 points from 0.7% during  2018. </em>(not statistically significant)</em></li>
+		<li>0.0 points from 0.6% during  2014. </em>(not statistically significant)</em></li>
+	</ul>
+	</li>
+	<li>Some other race was 0.2%, changing by:
+	<ul style="list-style-type:circle">
+		<li>0.0 points from 0.2% during  2018. </em>(not statistically significant)</em></li>
+		<li>0.1 points from 0.1% during  2014. </em>(statistically significant)</em></li>
+	</ul>
+	</li>
+	<li>Two or more races was 4.9%, changing by:
+	<ul style="list-style-type:circle">
+		<li>-0.0 points from 4.9% during  2018. </em>(not statistically significant)</em></li>
+		<li>0.4 points from 4.4% during  2014. </em>(statistically significant)</em></li>
+	</ul>
+	</li>
+</ul>
+
+<p><strong><em>Note: </em></strong><em>ACS 1-Year Estimates.</em></p>
+======================================================
+<p>During the the 2016-2020 interval interval in <strong>United States</strong>, the estimated non-white shares of the total population who were:</p>
+
+<ul>
+	<li>Hispanic (may be of any race) was 12.9%, changing by: 
+	<ul style="list-style-type:circle">
+		<li>-5.1 points from 18.0% during the 2015-2019 interval. </em></em></li>
+		<li>-4.2 points from 17.1% during the 2011-2015 interval. </em></em></li>
+	</ul>
+	</li>
+	<li>White (Non-Hispanic) was 67.5%, changing by: 
+	<ul style="list-style-type:circle">
+		<li>6.8 points from 60.7% during the 2015-2019 interval. </em>(statistically significant)</em></li>
+		<li>5.1 points from 62.3% during the 2011-2015 interval. </em>(statistically significant)</em></li>
+	</ul>
+	</li>
+	<li>Black or African-American (Non-Hispanic) was 3.7%, changing by: 
+	<ul style="list-style-type:circle">
+		<li>-8.6 points from 12.3% during the 2015-2019 interval. </em>(not statistically significant)</em></li>
+		<li>-8.5 points from 12.3% during the 2011-2015 interval. </em>(statistically significant)</em></li>
+	</ul>
+	</li>
+	<li>American Indian (Non-Hispanic) was 1.0%, changing by: 
+	<ul style="list-style-type:circle">
+		<li>0.3 points from 0.7% during the 2015-2019 interval. </em>(statistically significant)</em></li>
+		<li>0.4 points from 0.7% during the 2011-2015 interval. </em>(not statistically significant)</em></li>
+	</ul>
+	</li>
+	<li>Asian (Non-Hispanic) was 8.7%, changing by: 
+	<ul style="list-style-type:circle">
+		<li>3.3 points from 5.5% during the 2015-2019 interval. </em>(statistically significant)</em></li>
+		<li>3.7 points from 5.1% during the 2011-2015 interval. </em>(statistically significant)</em></li>
+	</ul>
+	</li>
+	<li>Native Hawaiian &amp; Pacific Islander (Non-Hispanic) was 0.7%, changing by: 
+	<ul style="list-style-type:circle">
+		<li>0.5 points from 0.2% during the 2015-2019 interval. </em>(statistically significant)</em></li>
+		<li>0.5 points from 0.2% during the 2011-2015 interval. </em>(statistically significant)</em></li>
+	</ul>
+	</li>
+	<li>Some other race was 0.3%, changing by:
+	<ul style="list-style-type:circle">
+		<li>0.1 points from 0.2% during the 2015-2019 interval. </em>(statistically significant)</em></li>
+		<li>0.1 points from 0.2% during the 2011-2015 interval. </em>(statistically significant)</em></li>
+	</ul>
+	</li>
+	<li>Two or more races was 5.2%, changing by:
+	<ul style="list-style-type:circle">
+		<li>2.7 points from 2.4% during the 2015-2019 interval. </em>(statistically significant)</em></li>
+		<li>3.0 points from 2.2% during the 2011-2015 interval. </em>(statistically significant)</em></li>
 	</ul>
 	</li>
 </ul>
